@@ -20,7 +20,7 @@ override.tf.json
 terraform.rc
 
 # Variable files that may contain sensitive data
-*.tfvars
+# *.tfvars
 *.tfvars.json
 
 # Provider lock file
